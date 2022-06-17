@@ -1,3 +1,3 @@
 # Belajar GIT
-ubah file
-satu
+
+ubah file 2
